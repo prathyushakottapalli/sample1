@@ -7,4 +7,4 @@ print "@string\n";
          }   
 print "$string[1]\n";
 $string_full = join(',',@string);
-print "$string\n";
+#print "$string\n";
